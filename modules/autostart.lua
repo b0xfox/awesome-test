@@ -1,0 +1,4 @@
+-- modules/autostart.lua
+-- awful.spawn.with_shell("xrandr --output HDMI-1 --auto")  -- Example of a startup command
+-- awful.spawn.with_shell("picom --config $HOME/.config/picom/picom.conf")  -- Example of compositor
+-- awful.spawn.with_shell("nitrogen --restore")  -- Restore wallpaper (if using nitrogen)
